@@ -16,21 +16,21 @@
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend / Web
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML5") 
-![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "CSS3") 
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript") 
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
-### 📱 Mobile / AR
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React Native") 
-![Banuba](https://img.shields.io/badge/Banuba-SDK-orange?logo=unity&logoColor=white "Banuba SDK")
+  <!-- Mobile / AR -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Banuba-SDK-orange?style=flat&logo=unity&logoColor=white" title="Banuba SDK" alt="Banuba SDK"/>&nbsp;
 
-### 🎮 Game Development
-![Unity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg "Unity") 
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg "C#")
+  <!-- Game Dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
+</p>
 
-### 🌐 Networking
-- UDP Messaging (Unity + C#)
 
 ---
 
