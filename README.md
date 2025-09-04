@@ -44,7 +44,7 @@
 ---
 
 ## 🏆 Achievements & Badges
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohsinkumarkiri&theme=tokyonight&no-frame=true&row=1&margin-w=10&column=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohsinkumarkiri&theme=tokyonight&no-frame=true&row=1&margin-w=10&column=4)
 
 ---
 
