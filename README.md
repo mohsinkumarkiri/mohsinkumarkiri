@@ -6,12 +6,13 @@
 ---
 
 ## 👨‍💻 About Me
-- Currently employed as a **Software Engineer** at **Lazulite Technology Services, Dubai**  
-- Responsible for developing and maintaining **marketing and interactive applications** using **Unity**  
-- Skilled in **C#**, **JavaScript**, and **React Native** with experience in integrating **AR SDKs** and API's  
-- Proficient in designing and implementing **networking solutions**, including **networking communication systems**  
-- Strong focus on delivering applications aligned with business and client requirements  
-- Committed to continuous professional growth and keeping pace with emerging technologies  
+- 💼 Currently employed as a **Software Engineer** at **Lazulite Technology Services, Dubai**  
+- 🎮 Responsible for developing and maintaining **marketing and interactive applications and Games** using **Unity Engine**  
+- 🛠️ Skilled in **C#**, **JavaScript**, and **React Native**, with experience in integrating **AR SDKs** and **APIs**  
+- 🌐 Proficient in designing and implementing **networking solutions**, including **communication systems**  
+- ⚡ Strong focus on delivering applications aligned with business and client requirements**  
+- 📚 Committed to **continuous professional growth** and staying current with **emerging technologies**  
+ 
 
 ---
 
