@@ -8,7 +8,6 @@
 ## 👨‍💻 About Me
 - 💡 Passionate about **building games, apps, and creative tech**  
 - 🎮 Exploring **Unity (C#)** for game dev & **React Native** for mobile AR/filters  
-- 🌐 Skilled in **JavaScript, CSS, HTML** for web projects  
 - 🚀 Love experimenting with **networking (UDP communication apps)**  
 - 📈 Constant learner — always exploring new frameworks & SDKs  
 
@@ -17,20 +16,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-
-  <!-- Mobile / AR -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Banuba-SDK-orange?style=flat&logo=unity&logoColor=white" title="Banuba SDK" alt="Banuba SDK"/>&nbsp;
-
-  <!-- Game Dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Networking-UDP-blue?style=flat-square&logo=wifi&logoColor=white" title="Networking (UDP)" alt="Networking"/>
 </p>
-
 
 ---
 
@@ -45,12 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsinkumarkiri&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinkumarkiri&theme=tokyonight" height="160"/>
-</p>
+## 📊 Languages Used
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkumarkiri&layout=compact&theme=tokyonight" height="140"/>
@@ -59,8 +44,7 @@
 ---
 
 ## 🏆 Achievements & Badges
-![Profile Views](https://komarev.com/ghpvc/?username=mohsinkumarkiri&style=for-the-badge&color=blue)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohsinkumarkiri&theme=tokyonight&margin-w=10&margin-h=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohsinkumarkiri&theme=tokyonight&no-frame=true&row=1&margin-w=10&column=5)
 
 ---
 
@@ -78,4 +62,3 @@
 
 <!-- Footer Banner -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-
